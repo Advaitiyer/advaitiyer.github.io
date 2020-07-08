@@ -1,9 +1,9 @@
 main:
-  - title: "Curriculum Vitae"
-    url: /cv/
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Tags"
-    url: /tags/
   - title: "Blog"
     url: /blog/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Curriculum Vitae"
+    url: /cv/

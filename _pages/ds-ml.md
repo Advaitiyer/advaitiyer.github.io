@@ -1,7 +1,8 @@
 ---
 title: "Data Science & ML"
-layout: collection
+layout: archive
 permalink: /dsml/
+collection: portfolio
 author_profile: true
 ---
 

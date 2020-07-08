@@ -1,10 +1,10 @@
 main:
   - title: "BI & Analytics"
-    url: /_posts/bian/
+    url: /bian/
   - title: "Data Science & ML"
-    url: /_posts/dsml/
+    url: /dsml/
   - title: "Blog"
-    url: /_posts/blog/
+    url: /blog/
   - title: "Tags"
     url: /tags/
   - title: "Curriculum Vitae"

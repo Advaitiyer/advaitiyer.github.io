@@ -35,3 +35,5 @@ Computed the minimum and maximum Manhattan distance between points using the for
 <img src="https://latex.codecogs.com/gif.latex?Manhattan=|d_{i}-d_{j}|"/>
 
 <img src="/assets/images/advanced-data-mining/Manhattan.png?raw=true"/>
+
+Check out the code & outputs [here](https://github.com/Advaitiyer/advanced-data-mining/tree/master/HW1).

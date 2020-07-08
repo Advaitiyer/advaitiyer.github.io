@@ -8,9 +8,9 @@ tags:
   - Python
   - Data Mining
 ---
-## Description: The maximum and minimum bounds of Euclidean and Manhattan distances between n, d-dimensional arrays were calculated.
+**Description: The maximum and minimum bounds of Euclidean and Manhattan distances between n, d-dimensional arrays were calculated.**
 
-### 1. Data generation
+**1. Data generation**
 
 Generate n, d-dimensional arrays using the following pseudo-code:
 
@@ -20,7 +20,7 @@ for i in range(n):
   append into array(d-dimensional random array)
 ```
 
-### 2. Euclidean distance 
+**2. Euclidean distance**
 
 Computed the minimum and maximum Euclidean distance between points using the formula:
 
@@ -28,7 +28,7 @@ Computed the minimum and maximum Euclidean distance between points using the for
 
 <img src="/assets/images/advanced-data-mining/Euclidean.png?raw=true"/>
 
-### 3. Manhattan distance 
+**3. Manhattan distance**
 
 Computed the minimum and maximum Manhattan distance between points using the formula:
 

@@ -5,5 +5,7 @@ main:
     url: /dsml/
   - title: "Blog"
     url: /blog/
+  - title: "Tags"
+    url: /tags/
   - title: "Curriculum Vitae"
     url: /cv/

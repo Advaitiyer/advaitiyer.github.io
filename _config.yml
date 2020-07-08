@@ -92,28 +92,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _bian
-  - scope:
-      path: "_bian"
-      type: bian
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _dsml
-  - scope:
-      path: "_dsml"
-      type: dsml
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"

@@ -1,6 +1,7 @@
 ---
 title: "Evaluating bounds using Manhattan and Euclidean distances"
 date: 2019-11-11T07:34:30-04:00
+permalink: /dsml/
 categories:
   - Portfolio
 tags:

@@ -26,7 +26,7 @@ Computed the minimum and maximum Euclidean distance between points using the for
 
 <img src="https://latex.codecogs.com/gif.latex?Euclidean=\sqrt{d_{i}^{2}-d_{j}^{2}}"/> 
 
-<img src="/images/advanced-data-mining/Euclidean.png?raw=true"/>
+<img src="/assets/images/advanced-data-mining/Euclidean.png?raw=true"/>
 
 ### 3. Manhattan distance 
 
@@ -34,4 +34,4 @@ Computed the minimum and maximum Manhattan distance between points using the for
 
 <img src="https://latex.codecogs.com/gif.latex?Manhattan=|d_{i}-d_{j}|"/>
 
-<img src="/images/advanced-data-mining/Manhattan.png?raw=true"/>
+<img src="/assets/images/advanced-data-mining/Manhattan.png?raw=true"/>

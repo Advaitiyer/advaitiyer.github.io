@@ -22,5 +22,7 @@ author_profile: true
 
 1. [Character Recognition: Can Machine Learning Identify Human Written Characters?](https://advaitiyer.github.io/dsml/2020-01-16-bda/)
 
-2. 
+2. [Mathematics of Gradient Descent](https://advaitiyer.github.io/dsml/2019-09-12-bda/)
+
+3. [Gradient Descent with MapReduce](https://advaitiyer.github.io/dsml/2019-09-29-bda/)
 

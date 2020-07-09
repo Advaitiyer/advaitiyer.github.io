@@ -18,3 +18,9 @@ author_profile: true
 
 5. [Analysis of co-purchased products on Amazon](https://advaitiyer.github.io/dsml/2020-01-03-adm/)
 
+**Big Data Analytics**
+
+1. [Character Recognition: Can Machine Learning Identify Human Written Characters?](https://advaitiyer.github.io/dsml/2020-01-16-bda/)
+
+2. 
+

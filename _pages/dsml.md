@@ -5,7 +5,3 @@ permalink: /dsml/
 collection: portfolio
 author_profile: true
 ---
-
-{% for post in site.posts/dsml %}
-  {% include archive-single.html %}
-{% endfor %}

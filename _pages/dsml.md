@@ -20,6 +20,6 @@ author_profile: true
 
 <img src="/assets/images/advanced-data-mining/HW3.png?raw=true"/>
 
-[Unique quotes estimation, and spam filter using non-cryptographic hashing algorithms](https://advaitiyer.github.io/dsml/2019-11-06-adm/)
+[Unique quotes estimation with Flajolet-Martin algorithm, and filtering spams with Bloom Filter](https://advaitiyer.github.io/dsml/2019-11-06-adm/)
 
 <img src="/assets/images/advanced-data-mining/HW4.png?raw=true"/>

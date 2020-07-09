@@ -26,3 +26,5 @@ author_profile: true
 
 3. [Gradient Descent with MapReduce](https://advaitiyer.github.io/dsml/2019-09-29-bda/)
 
+4. [Random Forest with PySpark](https://advaitiyer.github.io/dsml/2019-09-17-bda/)
+

@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Advait Ramesh Iyer"
   avatar : "/assets/images/logo.png"
-  bio    : "I'm an aspiring Data Scientist who can torture the data enough that it brings out generalisable patterns which are minimally biased, and then communicate this technical gibberish to Business Managers."
+  bio    : "I torture the data to bring out unbiased, generalisable patterns, and communicate the algorithmic gibberish to Business Professionals."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

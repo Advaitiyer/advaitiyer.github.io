@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Advait Ramesh Iyer"
   avatar : "/assets/images/logo.png"
-  bio    : "By torturing the data I can identify unbiased and generalisable patterns, and communicate the gibberish to non-tech audience."
+  bio    : "By torturing the data I can identify unbiased and generalisable patterns, and communicate this technical gibberish to a non-tech audience."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

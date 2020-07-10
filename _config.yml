@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Advait Ramesh Iyer"
   avatar : "/assets/images/logo.png"
-  bio    : "I'm an aspiring Data Scientist who loves to understand the ontological nature of the problems at hand, and try to come up with elegant scalable solutions."
+  bio    : "I'm an aspiring Data Scientist who can torture the data enough that it brings out generalisable patterns which are minimally biased, and then communicate this technical gibberish to Business Managers."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

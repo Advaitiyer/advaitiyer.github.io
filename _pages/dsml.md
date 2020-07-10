@@ -16,7 +16,7 @@ author_profile: true
 
 4. [Unique quotes estimation with Flajolet-Martin algorithm, and filtering spams with Bloom Filter](https://advaitiyer.github.io/dsml/2019-11-06-adm/)
 
-5. [Analysis of co-purchased products on Amazon](https://advaitiyer.github.io/dsml/2020-01-03-adm/)
+5. [Network analysis of co-purchased products on Amazon](https://advaitiyer.github.io/dsml/2020-01-03-adm/)
 
 **Big Data Analytics**
 

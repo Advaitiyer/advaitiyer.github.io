@@ -6,3 +6,5 @@ collection: portfolio
 author_profile: true
 ---
 **Financial Analytics**
+
+1. [Capital Asset Pricing Model for IBM Stocks](https://advaitiyer.github.io/bian/2019-09-28-fa/)

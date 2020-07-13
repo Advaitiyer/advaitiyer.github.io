@@ -25,4 +25,8 @@ author_profile: true
 
 <img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/information-visualization/network-analysis.gif?raw=true"/>
 
+**Marketing Analytics:**
+
+[Smartwatch in Digital times: An analysis of smartwatch's trend at Syracuse University]()
+
 

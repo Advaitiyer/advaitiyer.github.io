@@ -10,3 +10,12 @@ author_profile: true
 1. [Capital Asset Pricing Model for IBM Stocks](https://advaitiyer.github.io/bian/2019-09-28-fa/)
 2. [Portfolio Sorting Strategy for 5000+ companies](https://advaitiyer.github.io/bian/2020-01-02-fa/)
 3. [Machine Learning for Bankruptcy Prediction](https://advaitiyer.github.io/bian/2019-11-13-fa/)
+
+**Information Visualization:**
+
+1. [Why are popular songs so popular? An analysis of Spotify's music repository](https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/information-visualization/poster.pdf)
+
+<img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/information-visualization/final-poster.png?raw=true"/>
+
+
+

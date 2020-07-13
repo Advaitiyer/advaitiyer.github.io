@@ -36,3 +36,5 @@ author_profile: true
 2. [Autograd: a program for automatic differentiation](https://advaitiyer.github.io/dsml/2019-10-27-ai/)
 
 3. [Othellobot](https://advaitiyer.github.io/dsml/2019-12-16-ai/)
+
+4. [Deep Learning for Computer Vision](https://advaitiyer.github.io/dsml/2019-12-11-bda/)

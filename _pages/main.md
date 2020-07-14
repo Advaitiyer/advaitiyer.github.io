@@ -5,16 +5,6 @@ permalink: /
 
 I am a Data Scientist who mines data and fits it into frameworks that generate business value. Through my academic and professional experience in Data Analytics and Management Consulting, I understand the use-case in short turnaround times, build a data collection methodology, and recommend a predictive/explanatory model with the optimal mixture of bias and variance. Multi-domain cross-functional work has helped me learn how to communicate boring technical insights to management professionals.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <title>Strengths Chart</title>
-</head>
 <body>
   <div class="container", style="width:80%;height:80%">
     <canvas id="Strengths"></canvas>
@@ -84,4 +74,3 @@ I am a Data Scientist who mines data and fits it into frameworks that generate b
     });
   </script>
 </body>
-</html>

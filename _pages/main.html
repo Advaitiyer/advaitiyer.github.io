@@ -13,7 +13,7 @@ I am a Data Scientist who mines data and fits it into frameworks that generate b
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <title>My Chart.js Chart</title>
+  <title>Strengths Chart</title>
 </head>
 <body>
   <div class="container", style="width:100%;height:100%">
@@ -30,7 +30,7 @@ I am a Data Scientist who mines data and fits it into frameworks that generate b
     let strengthsChart = new Chart(Strengths, {
       type:'horizontalBar', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
       data:{
-        labels:['Data Collection', 'Data Mining', 'Machine Learning', 'Statistical Hypothesis Testing', 'Data Visualization', 'Management Consulting'],
+        labels:['Data Collection', 'Data Mining', 'Machine Learning', 'Hypothesis Testing', 'Data Visualization', 'Management Consulting'],
         datasets:[{
           data:[
             99,
@@ -59,10 +59,10 @@ I am a Data Scientist who mines data and fits it into frameworks that generate b
         title:{
           display:true,
           text:'Strengths',
-          fontSize:15
+          fontSize:20
         },
         legend:{
-          display:true,
+          display:false,
           position:'top',
           labels:{
             fontColor:'#000'

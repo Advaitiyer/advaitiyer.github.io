@@ -9,5 +9,5 @@ main:
     url: /research/
   - title: "Tags"
     url: /tags/
-  - title: "Curriculum Vitae"
-    url: /cv/
+  - title: "About Me"
+    url: /about/

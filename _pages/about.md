@@ -8,6 +8,70 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
 
-<div class="infogram-embed" data-id="9af619ac-f989-44c9-8c85-509457cbd9a5" data-type="interactive" data-title="Doughnut Chart"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"></div>
+<div class="container", style="width:80%;height:80%">
+  <canvas id="Strengths"></canvas>
+  <script>
+    let Strengths = document.getElementById('Strengths').getContext('2d');
+    // Global Options
+    Chart.defaults.global.defaultFontFamily = 'Lato';
+    Chart.defaults.global.defaultFontSize = 18;
+    Chart.defaults.global.defaultFontColor = '#777';
+    let strengthsChart = new Chart(Strengths, {
+      type:'doughnut', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
+      data:{
+        labels:['Data Collection', 'Data Mining', 'Machine Learning', 'Hypothesis Testing', 'Data Visualization', 'Management Consulting'],
+        datasets:[{
+          label:false,
+          data:[
+            99,
+            95,
+            93,
+            90,
+            85,
+            74
+          ],
+          backgroundColor:[
+            'rgba(255, 99, 132, 0.6)',
+            'rgba(54, 162, 235, 0.6)',
+            'rgba(255, 206, 86, 0.6)',
+            'rgba(75, 192, 192, 0.6)',
+            'rgba(153, 102, 255, 0.6)',
+            'rgba(255, 159, 64, 0.6)',
+            'rgba(255, 99, 132, 0.6)'
+          ],
+          borderWidth:1,
+          borderColor:'#777',
+          hoverBorderWidth:3,
+          hoverBorderColor:'#000'
+        }]
+      },
+      options:{
+        title:{
+          display:true,
+          text:'Strengths',
+          fontSize:20
+        },
+        legend:{
+          display:true,
+          position:'top',
+          labels:{
+            fontColor:'#000'
+          }
+        },
+        layout:{
+          padding:{
+            left:5,
+            right:5,
+            bottom:5,
+            top:5
+          }
+        },
+        tooltips:{
+          enabled:true
+        }
+      }
+    });
+  </script>
+</div>
 
 

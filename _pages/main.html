@@ -28,10 +28,11 @@ I am a Data Scientist who mines data and fits it into frameworks that generate b
     Chart.defaults.global.defaultFontColor = '#777';
 
     let strengthsChart = new Chart(Strengths, {
-      type:'horizontalBar', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
+      type:'doughnut', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
       data:{
         labels:['Data Collection', 'Data Mining', 'Machine Learning', 'Hypothesis Testing', 'Data Visualization', 'Management Consulting'],
         datasets:[{
+          label:false,
           data:[
             99,
             95,

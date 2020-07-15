@@ -25,4 +25,8 @@ author_profile: true
 [Network Analysis with iGraph in R](https://github.com/Advaitiyer/information-visualization/tree/master/HW9)
 <img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/information-visualization/network-analysis.gif?raw=true"/>
 
+**Statistics and Decision Making**
+
+[Forecasting flight delays at Chicago O'Hare Airport](https://github.com/Advaitiyer/advaitiyer.github.io/raw/master/assets/images/applied-analytics/statistics-decision-making.pdf)
+
 

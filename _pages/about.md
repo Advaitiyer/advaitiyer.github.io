@@ -14,6 +14,4 @@ Through my academic and professional experience in Data Analysis and Management 
 <iframe title="Programming Experience" aria-label="chart" id="datawrapper-chart-fBUpv" src="https://datawrapper.dwcdn.net/fBUpv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="341"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-I'm currently looking for a full-time Data Scientist/Analyst position across the US.
-
-[Download](https://github.com/Advaitiyer/advaitiyer.github.io/raw/master/assets/images/Resume_Advait_Ramesh_Iyer_DS.pdf) my resume.
+I'm open for hiring, available to join immediately! [Download](https://github.com/Advaitiyer/advaitiyer.github.io/raw/master/assets/images/Resume_Advait_Ramesh_Iyer_DS.pdf) my resume.

@@ -5,6 +5,10 @@ permalink: /bian/
 collection: portfolio
 author_profile: true
 ---
+**Marketing Analytics:**
+
+[Smartwatch in Digital times: An analysis of smartwatch's trend at Syracuse University](https://advaitiyer.github.io/bian/2019-12-26-mar/)
+
 **Financial Analytics**
 
 [Capital Asset Pricing Model for IBM Stocks](https://advaitiyer.github.io/bian/2019-09-28-fa/)
@@ -20,9 +24,5 @@ author_profile: true
 
 [Network Analysis with iGraph in R](https://github.com/Advaitiyer/information-visualization/tree/master/HW9)
 <img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/information-visualization/network-analysis.gif?raw=true"/>
-
-**Marketing Analytics:**
-
-[Smartwatch in Digital times: An analysis of smartwatch's trend at Syracuse University]()
 
 

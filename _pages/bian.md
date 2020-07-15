@@ -21,6 +21,10 @@ author_profile: true
 
 [Forecasting flight delays at Chicago O'Hare Airport](https://github.com/Advaitiyer/advaitiyer.github.io/raw/master/assets/images/applied-analytics/statistics-decision-making.pdf)
 
+[Customer Analytics for Airline's operating strategy](https://github.com/Advaitiyer/advaitiyer.github.io/raw/master/assets/images/intro-to-data-science/intro-to-data-science.pdf)
+
+[Human Resource Analytics through socio-economic data](https://github.com/Advaitiyer/advaitiyer.github.io/raw/master/assets/images/applied-analytics/data-analytics.pdf)
+
 **Information Visualization:**
 
 [Why are popular songs so popular? An analysis of Spotify's music repository](https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/information-visualization/poster.pdf)

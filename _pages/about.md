@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-permalink: /
+permalink: /about/
 author_profile: true
 ---
 

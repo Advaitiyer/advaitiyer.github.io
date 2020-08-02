@@ -1,4 +1,6 @@
 main:
+  - title: "About Me"
+    url: /about/
   - title: "BI & Analytics"
     url: /bian/
   - title: "Data Science & ML"

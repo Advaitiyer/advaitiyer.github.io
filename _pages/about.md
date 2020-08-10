@@ -4,7 +4,7 @@ permalink: /about/
 author_profile: true
 ---
 
-I'm available for hire immediately! [Download](https://github.com/Advaitiyer/advaitiyer.github.io/raw/master/assets/images/AdvaitIyer_DS.pdf) my resume.
+I'm available for hire immediately! [Download](https://github.com/Advaitiyer/advaitiyer.github.io/raw/master/assets/images/Advait_Ramesh_Iyer.pdf) my resume.
 
 I am a data-driven professional who mines data, and fits them into frameworks that generate value for the business. Multi-domain cross-functional work experience has helped identify methods to communicate boring technical insights to management professionals.
 

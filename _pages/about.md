@@ -8,8 +8,21 @@ I'm available for hire immediately!
 
 #### [Download](https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/Advait_Iyer_Resume.pdf) my resume.
 
-I am a data-driven professional who mines data, and fits them into frameworks that generate value for the business. 
-Multi-domain cross-functional work experience has helped identify methods to communicate boring technical insights to management professionals.
+I have worked in the area of Data Analytics, Data Science & Business Intelligence for the past 5 years.
+
+#### Education
+
+- Master of Science in Business Analytics, Syracuse University, Syracuse NY (Aug 2018 - May 2020)
+- Bachelor of Technology in Mechanical Engineering, MANIT Bhopal, India (Jul 2013 - Apr 2017)
+
+#### Work Experience
+- Data Scientist at Big Analytixs LLC, Atlanta GA (Jul 2021 - Sep 2021)
+- Data Analyst at AuditBoard Inc., Atlanta GA (Jan 2021 - Jul 2021)
+- Research Data Analyst at Syracuse University, Syracuse NY (Dec 2019 - Jan 2021)
+- Associate Data Analyst at SG Analytics Private Limited, India (May 2017 - Jun 2018)
+
+#### Publication
+- Dynamic Newsvendor Model for Optimistic and Pessimistic Policy-based Forecasting, Working Paper in Operations Research
 
 
 

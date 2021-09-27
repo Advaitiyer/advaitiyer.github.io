@@ -6,7 +6,7 @@ author_profile: true
 
 I'm available for hire immediately! 
 
-#### [Download](https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/Advait_Iyer_Resume.pdf) my resume.
+#### [Download](https://github.com/Advaitiyer/advaitiyer.github.io/raw/master/assets/images/Advait_Iyer_Resume.pdf) my resume.
 
 I have worked in the area of Data Analytics, Data Science & Business Intelligence for the past 5 years.
 

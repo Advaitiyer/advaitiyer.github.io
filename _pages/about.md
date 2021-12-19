@@ -4,21 +4,16 @@ permalink: /
 author_profile: true
 ---
 
-I'm available for hire immediately! 
-
-#### [Download](https://github.com/Advaitiyer/advaitiyer.github.io/raw/master/assets/images/Advait_Iyer_Resume.pdf) my resume.
-
-I have worked in the area of Data Analytics, Data Science & Business Intelligence for the past 5 years.
-
 #### Education
 
 - Master of Science in Business Analytics, Syracuse University, Syracuse NY (Aug 2018 - May 2020)
 - Bachelor of Technology in Mechanical Engineering, MANIT Bhopal, India (Jul 2013 - Apr 2017)
 
 #### Work Experience
-- Data Scientist at Big Analytixs LLC, Atlanta GA (Jul 2021 - Sep 2021)
-- Data Analyst at AuditBoard Inc., Atlanta GA (Jan 2021 - Jul 2021)
-- Research Data Analyst at Syracuse University, Syracuse NY (Dec 2019 - Jan 2021)
+- Senior Data Science Analyst at Discover Financial Services (Dec 2021 - Present)
+- Data Scientist at Big Analytixs LLC (Jul 2021 - Sep 2021)
+- Data Analyst at AuditBoard Inc. (Jan 2021 - Jul 2021)
+- Research Data Analyst at Syracuse University (Dec 2019 - Jan 2021)
 - Associate Data Analyst at SG Analytics Private Limited, India (May 2017 - Jun 2018)
 
 #### Publication

@@ -10,7 +10,8 @@ author_profile: true
 - Bachelor of Technology in Mechanical Engineering, MANIT Bhopal, India (Jul 2013 - Apr 2017)
 
 #### Work Experience
-- Senior Data Science Analyst at Discover Financial Services (Dec 2021 - Present)
+- Lead Data Analyst, Marketing & Sales Analytics at Sprinklr Inc. (Sep 2023 - Present)
+- Senior Data Science Analyst at Discover Financial Services (Dec 2021 - June 2023)
 - Data Scientist at Big Analytixs LLC (Jul 2021 - Sep 2021)
 - Data Analyst at AuditBoard Inc. (Jan 2021 - Jul 2021)
 - Research Data Analyst at Syracuse University (Dec 2019 - Jan 2021)
